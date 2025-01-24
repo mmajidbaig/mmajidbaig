@@ -1,4 +1,4 @@
-- Simple C Project for testing...- 
+- Simple C Project for testing... 
 
 <!---
 mmajidbaig/mmajidbaig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
